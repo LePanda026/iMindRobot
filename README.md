@@ -37,7 +37,7 @@ pip install -r requirements_tts.txt
 ```
 
 * Download the model:
-All checkpoints can be availible here, and you should arrange them as following picture:
+All checkpoints can be availible here, and you should arrange them as following picture:  
 ChatGLM2-6B: 🤗[Huggfacing](https://huggingface.co/THUDM/chatglm2-6b);  
 TTS_MODEL: [Baidu Disk](https://pan.baidu.com/s/1-JsqKEBr2nl7VkhWFcOQgQ?pwd=void);  
 Bert_Japanese: 🤗[Huggfacing](https://huggingface.co/tohoku-nlp/bert-base-japanese-v3);  
