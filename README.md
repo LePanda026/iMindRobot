@@ -37,7 +37,7 @@ pip install -r requirements_tts.txt
 ```
 
 * Download the model:
-All checkpoints can be availible here, and you should arrange them as following picture:
+All checkpoints can be availible here, and you should arrange them as following picture:  
 M3E: 🤗[Huggfacing](https://huggingface.co/moka-ai/m3e-base);  
 ChatGLM2-6B: 🤗[Huggfacing](https://huggingface.co/THUDM/chatglm2-6b);  
 Bert_Japanese: 🤗[Huggfacing](https://huggingface.co/tohoku-nlp/bert-base-japanese-v3);  
