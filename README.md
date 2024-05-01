@@ -61,7 +61,7 @@ python startup.py -a
 ```
 
 ## API
-How to use api? You can reference to `http://127.0.0.1:7861` after start serve and webui.  
+How to use api? You can reference to `http://127.0.0.1:7861` after starting serve and webui.  
 For using api in Python, you can reference files under iMindRobot/tests/  
 <img src="https://github.com/LePanda026/iMindRobot/blob/main/api_test.png" />  
 
