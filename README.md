@@ -45,7 +45,7 @@ Bert_Chinese: 🤗[Huggfacing](https://huggingface.co/hfl/chinese-roberta-wwm-ex
 TTS_MODEL(character): [Baidu Disk](https://pan.baidu.com/s/1-JsqKEBr2nl7VkhWFcOQgQ?pwd=void);  
 
 
-<img src="https://github.com/LePanda026/iMindRobot/blob/main/checkpoint.png" />  
+<img src="https://github.com/LePanda026/iMindRobot/blob/main/checkpoint_arrangement.png" />  
 
 * QuickStart
 ```bash
