@@ -47,12 +47,23 @@ TTS_MODEL(character): [Baidu Disk](https://pan.baidu.com/s/1-JsqKEBr2nl7VkhWFcOQ
 
 <img src="https://github.com/LePanda026/iMindRobot/blob/main/checkpoint_arrangement.png" />  
 
-* QuickStart
+* Start serve and chatpage
 ```bash
 cd ..
+```
+Run following command to init database
+```bash
 python init_database.py
+```
+Run following command to start webui and api serve
+```bash
 python startup.py -a
 ```
+
+## API
+How to use api? You can reference to `http://127.0.0.1:7861` after start serve and webui.  
+For using api in Python, you can reference files under iMindRobot/tests/  
+<img scr="https://github.com/LePanda026/iMindRobot/blob/main/api_test.png">  
 
 
 ## 💖 Acknowledgement
