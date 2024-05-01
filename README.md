@@ -28,7 +28,7 @@ pip install --upgrade langchain
 
 * Download the Checkpoint and modify the Model Path :
 ```bash
-cd requirements
+cd requirements  
 pip install -r requirements.txt
 pip install -r requirements_api.txt
 pip install -r requirements_webui.txt
@@ -37,12 +37,12 @@ pip install -r requirements_tts.txt
 ```
 
 * Download the model:
-All checkpoints can be availible here:   
-ChatGLM2-6B: 🤗[Huggfacing](https://huggingface.co/THUDM/chatglm2-6b); 
-TTS_MODEL: [Baidu Disk](https://pan.baidu.com/s/1-JsqKEBr2nl7VkhWFcOQgQ?pwd=void); 
-Bert_Japanese: 🤗[Huggfacing](https://huggingface.co/tohoku-nlp/bert-base-japanese-v3); 
-Bert_Chinese: 🤗[Huggfacing](https://huggingface.co/hfl/chinese-roberta-wwm-ext-large); 
-
+All checkpoints can be availible here, and you should arrange them as following picture:
+<img src="https://github.com/LePanda026/iMindRobot/blob/main/checkpoint.png" />  
+ChatGLM2-6B: 🤗[Huggfacing](https://huggingface.co/THUDM/chatglm2-6b);  
+TTS_MODEL: [Baidu Disk](https://pan.baidu.com/s/1-JsqKEBr2nl7VkhWFcOQgQ?pwd=void);  
+Bert_Japanese: 🤗[Huggfacing](https://huggingface.co/tohoku-nlp/bert-base-japanese-v3);  
+Bert_Chinese: 🤗[Huggfacing](https://huggingface.co/hfl/chinese-roberta-wwm-ext-large);  
 * QuickStart
 ```bash
 cd ..
