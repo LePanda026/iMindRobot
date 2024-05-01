@@ -76,7 +76,7 @@ class KBFaissPool(_FaissPool):
 
                 if os.path.isfile(os.path.join(vs_path, "index.faiss")):
                     embeddings = self.load_kb_embeddings(kb_name=kb_name, embed_device=embed_device)
-                    vector_store = FAISS.load_local(vs_path, embeddings, normalize_L2=True)
+                    vector_store = FAISS.load_local(vs_path, embeddings, normalize_L2=True , allow_dangerous_deserialization=True)
                 elif create:
                     # create an empty vector store
                     if not os.path.exists(vs_path):
