@@ -35,7 +35,7 @@ Bert_Chinese: 🤗[Huggfacing](https://huggingface.co/hfl/chinese-roberta-wwm-ex
 TTS_MODEL(character): [Baidu Disk](https://pan.baidu.com/s/1-JsqKEBr2nl7VkhWFcOQgQ?pwd=void);  
 
 
-<img src="https://github.com/LePanda026/iMindRobot/blob/main/checkpoint_arrangement.png" />  
+<img src="https://github.com/LePanda026/iMindRobot/blob/main/checkpoint_arrangement.jpg" />  
 
 * Start serve and webui
 ```bash
@@ -53,7 +53,7 @@ python startup.py -a
 ## API
 How to use api? You can reference to `http://127.0.0.1:7861` after starting serve and webui.  
 For using api in Python, you can reference files under iMindRobot/tests/  
-<img src="https://github.com/LePanda026/iMindRobot/blob/main/api_test.jpg" />  
+<img src="https://github.com/LePanda026/iMindRobot/blob/main/api_test.png" />  
 
 
 ## 💖 Acknowledgement
