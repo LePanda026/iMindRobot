@@ -2,14 +2,14 @@
 ## 🔧 Quick Start
 * Prepare virtual environment
 ```bash
-conda create -n chatbot python=3.8
-conda activate chatbot
+conda create -n iMindRobot python=3.8
+conda activate iMindRobot
 ```
 
 * Clone our repository
 ```bash
-git clone https://github.com/LePanda026/ChatBot.git
-cd UniQ4Cap
+git clone https://github.com/LePanda026/iMindRobot.git
+cd iMindRobot
 ```
 
 * Install required packages:
