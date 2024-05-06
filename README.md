@@ -21,19 +21,9 @@ pip install -r requirements_api.txt
 pip install -r requirements_webui.txt
 pip uninstall torch
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
-pip install streamlit_webrtc==1.26.0
+pip install streamlit_webrtc
 pip install streamlit==1.26.0
 pip install --upgrade langchain
-```
-
-* Download the Checkpoint and modify the Model Path :
-```bash
-cd requirements  
-pip install -r requirements.txt
-pip install -r requirements_api.txt
-pip install -r requirements_webui.txt
-pip install -r requirements_tts.txt
-
 ```
 
 * Download the model:
