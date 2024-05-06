@@ -2,8 +2,8 @@
 ## 🔧 Quick Start
 * Prepare virtual environment
 ```bash
-conda create -n iMindRobot python=3.8
-conda activate iMindRobot
+conda create -n imindrobot python=3.8
+conda activate imindrobot
 ```
 
 * Clone our repository
